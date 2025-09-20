@@ -21,4 +21,6 @@ Root Cellar helps home cooks and homesteaders track freezer/pantry items, provid
   -Detail tabs (Ingredients/Nutrition)
   -Status-bar notification
   -Logcat lifecycle
-  
+
+### Module 3 Wireframes
+ [View Wireframes PDF] (https://github.com/SkywalkerVisions/root-cellar/blob/main/Wireframes%20Module%203.pdf)
