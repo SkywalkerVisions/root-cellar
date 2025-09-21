@@ -24,3 +24,6 @@ Root Cellar helps home cooks and homesteaders track freezer/pantry items, provid
 
 ### Module 3 Wireframes
  [View Wireframes PDF] (https://github.com/SkywalkerVisions/root-cellar/blob/main/Wireframes%20Module%203.pdf)
+
+ ### Module 4 Lesson 6 Summary
+[View Lesson 6 Summary] https://github.com/SkywalkerVisions/root-cellar/wiki/Module-4-Lesson-6-Summary
