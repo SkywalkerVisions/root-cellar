@@ -1,29 +1,41 @@
 # Root Cellar
-Preserve what you grow. Track what you store
 
-Root Cellar helps home cooks and homesteaders track freezer/pantry items, providing expiration reminders. Later, I’ll add basic nutrition/carbohydrate info for homemade meals.
+This app idea came from wanting an easier way to keep track of what I have stored in the freezer and pantry. It’s basically a place where I can log meals or ingredients and get reminders before things expire. Later on, I want to add some nutrition info (like carbs) so it’s more useful for planning homemade meals.
 
-## Module 2 (current) 
-- Meals list (MainActivity)
-- Add Meal flow (returns result)
-- Meal detail with two tabs (fragments): Ingredients | Nutrition
-- Expiration reminder notification
-- Material theme (light/dark)
-- Share meal info via intent
+---
 
-## Build & Run
-- Android Studio (latest), Java, Gradle  
-- Emulator: Pixel 7 (any recent API)
+## What I worked on earlier (Modules 2–4)
+- Set up a meal list screen (MainActivity).
+- Added the ability to add a meal and return results.
+- Created a detail screen with two tabs (Ingredients | Nutrition).
+- Started on expiration reminders.
+- Added light and dark theme.
+- Tried out sharing meal info with intents.
+- Made some wireframes for Module 3.
+- Wrote a short summary for Module 4.
+
+---
+
+## Module 5 — What’s New
+- I started setting up a list → detail flow (so when you click on an item, it shows more info).
+- I added a `docs/outline.md` file to keep track of what I’m changing week by week.
+- Updated this README to show my Module 5 progress.
+- Next I want to swap out the “fake data” I’m using now with something real (like Room database or maybe an API).
+
+---
+
+## How to Run It
+- The easiest way is just open it in Android Studio and hit the green Run ▶ button.
+- I’ve been testing it on a Pixel 7 emulator, but it should work on other setups too.
+- There are command line ways to run it with Gradle, but honestly I just click Run.
+
+---
 
 ## Screenshots
-  -Emulator launch
-  -Add Meal (progress & confirm)
-  -Detail tabs (Ingredients/Nutrition)
-  -Status-bar notification
-  -Logcat lifecycle
+(I’ll add screenshots here once I run the app and capture them from the emulator.)
 
-### Module 3 Wireframes
- [View Wireframes PDF] (https://github.com/SkywalkerVisions/root-cellar/blob/main/Wireframes%20Module%203.pdf)
+---
 
- ### Module 4 Lesson 6 Summary
-[View Lesson 6 Summary] https://github.com/SkywalkerVisions/root-cellar/wiki/Module-4-Lesson-6-Summary
+## Extra Stuff From Earlier
+- [Module 3 Wireframes PDF](https://github.com/SkywalkerVisions/root-cellar/blob/main/Wireframes%20Module%203.pdf)
+- [Module 4 Lesson 6 Summary](https://github.com/SkywalkerVisions/root-cellar/wiki/Module-4-Lesson-6-Summary)  
