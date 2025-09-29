@@ -38,4 +38,30 @@ This app idea came from wanting an easier way to keep track of what I have store
 
 ## Extra Stuff From Earlier
 - [Module 3 Wireframes PDF](https://github.com/SkywalkerVisions/root-cellar/blob/main/Wireframes%20Module%203.pdf)
-- [Module 4 Lesson 6 Summary](https://github.com/SkywalkerVisions/root-cellar/wiki/Module-4-Lesson-6-Summary)  
+- [Module 4 Lesson 6 Summary](https://github.com/SkywalkerVisions/root-cellar/wiki/Module-4-Lesson-6-Summary)
+- # Root Cellar App
+
+## Introduction
+This project is part of my Mobile Application Development course. The goal is to design and build an Android application that integrates design, database, and forensic considerations.  
+
+## Version Changelog
+Following the [Keep a Changelog](https://keepachangelog.com/en/1.0.0/) format.
+
+### [Unreleased]
+- Add more database functionality
+- Implement additional UI features
+
+### [0.3] – 2025-09-28 (Module 5)
+- Started coding scaffold in Android Studio (MainActivity + layout).
+- Updated README with changelog.
+- Created Wiki page to mirror outline.
+- Pushed progress to GitHub repo.
+
+### [0.2] – 2025-09-21 (Module 4)
+- Finalized app outline and structure.
+- Confirmed Gradle build and emulator setup.
+
+### [0.1] – 2025-09-14 (Module 2)
+- Drafted app concept, feature list, and wireframes.
+- Outlined basic data requirements.
+
